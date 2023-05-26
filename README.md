@@ -1,5 +1,5 @@
 # GuessingGameChallenge
-This is a game in which user has to guess a number between 1 to 100.
+This is a game in which user has to guess a number between 1 to 100. And, the number of guesses taken to guess the actual number is the score the user gets.
 
 The program starts by:
 * Printing the rules of the game to the user  
